@@ -1,0 +1,25 @@
+Alguns Comandos do GIT
+
+Git add
+Este comando adiciona os arquivos solicitados ao ambiente de stage, 
+é uma forma de dizer para o git que você deseja que as modificações 
+daquele arquivo sejam gravadas na próxima remessa.
+
+Git commit
+Agora fazemos a gravação em si das modificações, desta forma criamos um snapshot do estado atual do nosso projeto.
+
+
+Git push
+Comando git push é usado para subir o repositorio,para GitHub
+
+
+Git status
+Este comando permite ver quais arquivos estão sendo “rastreados” pelo git e quais modificações já foram enviadas para o stage.
+
+
+Git branch
+É usado para verificar todas as branches presentes no repositório. 
+
+
+Git checkout
+É o comando utilizado para trocar de branch passando o nome da branch destino no final do comando. 
